@@ -9,12 +9,12 @@
 		<version>2.4.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ashwin.web</groupId>
-	<artifactId>ashwin-web</artifactId>
+	<groupId>com.engineering.lgi</groupId>
+	<artifactId>lgi-group1-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringMysqlDemo</name>
-	<description>web application</description>
-	<packaging>war</packaging>
+	<name>SpringDynamoDemo</name>
+	<description>java application</description>
+	<packaging>jar</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
